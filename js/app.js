@@ -5,8 +5,8 @@ import { data } from "./data/data";
 
 import { eventRender } from "./eventRender";
 import { memoriesRender } from "./memoriesRender";
-loadProfiles();
-loadQuotes();
+// loadProfiles();
+// loadQuotes();
 
-eventRender();
-memoriesRender();
+// eventRender();
+// memoriesRender();
